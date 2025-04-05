@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "molhaq.aternos.me",
+    "port": 15774,
     "version": "1.19.3"
   },
 
